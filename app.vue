@@ -1,5 +1,5 @@
 <template>
   <div>
-    <p>Kawaiirori</p>
+    <NuxtPage />
   </div>
 </template>
