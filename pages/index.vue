@@ -1,3 +1,6 @@
+<script setup>
+import krNav from '../components/krNav.vue'
+</script>
 <template>
-    <p>Kawaiirori Web</p>
+    <krNav/>
 </template>
