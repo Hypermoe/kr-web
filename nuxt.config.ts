@@ -23,9 +23,9 @@ export default defineNuxtConfig({
   },
 
   css:[
-    "./assets/base.css",
-    "./assets/bootstrap-5.0.2-dist/css/bootstrap.min.css",
-    "./assets/font-awesome-4.7.0/css/font-awesome.min.css"
+    "assets/base.css",
+    "assets/bootstrap-5.0.2-dist/css/bootstrap.min.css",
+    "assets/font-awesome-4.7.0/css/font-awesome.min.css"
   ]
   
 })
