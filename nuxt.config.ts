@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   app: {
+    buildAssetsDir: "/static/",
     head:{
       title: "Kawaiirori",
       script: [
@@ -21,6 +22,7 @@ export default defineNuxtConfig({
       ]
     }
   },
+  ssr: false,
 
   css:[
     "assets/base.css",
